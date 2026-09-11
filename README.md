@@ -32,7 +32,7 @@ cp ~/ssd/GitProjects/Agent-Rule/opencode/opencode.json \
    ~/.config/opencode/
 
 # 4. 安装插件依赖
-cd ~/.config/opencode && bun install   # 或 npm install
+cd ~/.config/opencode && npm install   # 或 bun install
 ```
 
 ## 验证
